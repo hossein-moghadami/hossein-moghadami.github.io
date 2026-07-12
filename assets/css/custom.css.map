@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA,oFAKE","sourcesContent":[".navbar-brand,\n.navbar-brand strong,\n.navbar-brand b,\n.post-title strong,\n.post-title b {\n font-weight: 400 !important;\n}\n"],"file":"custom.css"}
