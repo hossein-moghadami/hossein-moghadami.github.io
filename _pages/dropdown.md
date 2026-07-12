@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: flase
+nav: false
 children:
   - title: bookshelf
     permalink: /books/
