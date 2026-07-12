@@ -1,5 +1,5 @@
 ---
-llayout: About
+layout: About
 permalink: /about/
 title: About
 nav: true
