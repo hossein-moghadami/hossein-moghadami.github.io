@@ -1,10 +1,10 @@
 ---
-layout: About
-permalink: /about/
-title: About
+layout: about
+title: about
+permalink: /
 nav: true
 nav_order: 1
-subtitle: blank
+subtitle: 
 
 profile:
   align: right
