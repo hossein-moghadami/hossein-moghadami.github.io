@@ -1,10 +1,10 @@
 ---
-layout: about
-title: about
-permalink: /
+llayout: About
+permalink: /about/
+title: About
 nav: true
 nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: blank
 
 profile:
   align: right
