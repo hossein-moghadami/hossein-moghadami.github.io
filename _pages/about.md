@@ -6,17 +6,17 @@ subtitle:
 
 profile:
   align: right
-  image: 5953972807668535039.jpg
+  image: 5956224607482219860.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Mechanical and Aerospace Engineering (DIMEAS)</p>
     <p>Polytechnic University of Turin, Italy</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -26,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m in the final year of my Bachelor’s degree in Mechanical Engineering in Italy. My main interests are `robotics`, `railway`, and `computational design`.
+I am particularly interested in turning theoretical knowledge into practical work through projects and hands-on experience. I am currently working on my bachelor’s thesis, which focuses on modelling the behaviour of railway brake shoes. In parallel, I am developing the design and simulation of a delta robot.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was part of the [PoliToMars student team](https://politomars.lovable.app/), where I led the structural division. My work focused on `auxetic shells `and `origami-inspired structures` for deployable Martian habitats, and the project was accepted for presentation at the 2026 International Astronautical Congress. 
+During high school, I was also a member of one of two Iranian teams selected for the `CERN Beamline for Schools competition`, where we designed a [cloud chamber experiment](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing).
+A year earlier, I worked in a student team(Team DailyWater) for the Open17Water Challenge organised by the UniGeneva, where we were selected among the First Gear nominees.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am constantly learning, building, and looking for opportunities to exchange ideas. If you are interested in discussing a project or something more broadly, feel free to write me an [email](hossein.moghadami@studenti.polito.it).
