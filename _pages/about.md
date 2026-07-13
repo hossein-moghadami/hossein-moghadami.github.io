@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p>Hi! I’m in the final year of my Bachelor’s degree in Mechanical Engineering in Italy. My main interests are `robotics`, `railway`, and `computational design`.</p>
-<p>I am particularly interested in turning theoretical knowledge into practical work through projects and hands-on experience.</p>
-<p> I am currently working on my bachelor’s thesis, which focuses on modelling the behaviour of railway brake shoes. In parallel, I am developing the design and simulation of a delta robot.</p>
+Hi! I’m in the final year of my Bachelor’s degree in Mechanical Engineering in Italy. My main interests are `robotics`, `railway`, and `computational design`.
+I am particularly interested in turning theoretical knowledge into practical work through projects and hands-on experience.
+I am currently working on my bachelor’s thesis, which focuses on modelling the behaviour of railway brake shoes. In parallel, I am developing the design and simulation of a delta robot.
 
 Previously, I was part of the [PoliToMars student team](https://politomars.lovable.app/), where I led the structural division. My work focused on `auxetic shells `and `origami-inspired structures` for deployable Martian habitats, and the project was accepted for presentation at the 2026 International Astronautical Congress.
 During high school, I was also a member of one of two Iranian teams selected for the CERN Beamline for Schools competition, where we designed a [cloud chamber experiment](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing).
