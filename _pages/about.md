@@ -6,12 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 5953972807668535039.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Mechanical and Aerospace Engineering (DIMEAS)</p>
+    <p>Polytechnic University of Turin, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
