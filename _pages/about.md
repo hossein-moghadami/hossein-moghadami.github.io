@@ -30,8 +30,8 @@ latest_posts:
 <p>I am particularly interested in turning theoretical knowledge into practical work through projects and hands-on experience.</p>
 <p> I am currently working on my bachelor’s thesis, which focuses on modelling the behaviour of railway brake shoes. In parallel, I am developing the design and simulation of a delta robot.</p>
 
-<p>Previously, I was part of the [PoliToMars student team](https://politomars.lovable.app/), where I led the structural division. My work focused on `auxetic shells `and `origami-inspired structures` for deployable Martian habitats, and the project was accepted for presentation at the 2026 International Astronautical Congress. </p>
-<p>During high school, I was also a member of one of two Iranian teams selected for the CERN Beamline for Schools competition, where we designed a [cloud chamber experiment](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing).</p>
-<p>A year earlier, I worked in a student team(Team DailyWater) for the Open17Water Challenge organised by the UniGeneva, where we were selected among the First Gear nominees.</p>
+Previously, I was part of the [PoliToMars student team](https://politomars.lovable.app/), where I led the structural division. My work focused on `auxetic shells `and `origami-inspired structures` for deployable Martian habitats, and the project was accepted for presentation at the 2026 International Astronautical Congress.
+During high school, I was also a member of one of two Iranian teams selected for the CERN Beamline for Schools competition, where we designed a [cloud chamber experiment](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing).
+A year earlier, I worked in a student team(Team DailyWater) for the Open17Water Challenge organised by the UniGeneva, where we were selected among the First Gear nominees.
 
 I am constantly learning, building, and looking for opportunities to exchange ideas. If you are interested in discussing a project or something more broadly, feel free to write me an [email](hossein.moghadami@studenti.polito.it).
