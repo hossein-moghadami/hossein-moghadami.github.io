@@ -25,13 +25,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi! I’m a final-year BSc Mechanical Engineering student in Italy, interested in `robotics`, `railway engineering`, and `computational design`. 
 
-Hi! I’m in the final year of my Bachelor’s degree in Mechanical Engineering in Italy. My main interests are `robotics`, `railway`, and `computational design`.
-I am particularly interested in turning theoretical knowledge into practical work through projects and hands-on experience.
-I am currently working on my bachelor’s thesis, which focuses on modelling the behaviour of railway brake shoes. In parallel, I am developing the design and simulation of a delta robot.
+I enjoy applying theory through hands-on projects. I am currently modelling the behaviour of railway brake shoes for my bachelor’s thesis while also working on the design and simulation of a delta robot.
 
-Previously, I was part of the [PoliToMars student team](https://politomars.lovable.app/), where I led the structural division. My work focused on `auxetic shells `and `origami-inspired structures` for deployable Martian habitats, and the project was accepted for presentation at the 2026 International Astronautical Congress.
-During high school, I was also a member of one of two Iranian teams selected for the CERN Beamline for Schools competition, where we designed a [cloud chamber experiment](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing).
-A year earlier, I worked in a student team(Team DailyWater) for the Open17Water Challenge organised by the UniGeneva, where we were selected among the First Gear nominees.
+Previously, I led the structural division of the [PoliToMars student team](https://politomars.lovable.app/), working on auxetic shells and origami-inspired structures for deployable Martian habitats. The project was accepted for presentation at the 2026 International Astronautical Congress. During high school, I also took part in [CERN’s Beamline for Schools competition](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing) and the UniGeneva’s Open17 Water Challenge.
 
-I am constantly learning, building, and looking for opportunities to exchange ideas. If you are interested in discussing a project or something more broadly, feel free to write me an [email](hossein.moghadami@studenti.polito.it).
+I am constantly learning, building, and looking for opportunities to exchange ideas. If you are interested in discussing a project or something more broadly, feel free to write me an email.
