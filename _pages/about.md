@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hi! I’m a final-year BSc Mechanical Engineering student in Italy, interested in `robotics`, `railway engineering`, and `computational design`. 
 
-I enjoy applying theory through hands-on projects. I am currently modelling the behaviour of railway brake shoes for my bachelor’s thesis while also working on the design and simulation of a delta robot.
+I enjoy applying theory through hands-on projects. I am currently modelling the behaviour of railway brake shoes for my bachelor’s thesis while also working on the design and simulation of a DELTA robot.
 
 Previously, I led the structural division of the [PoliToMars student team](https://politomars.lovable.app/), working on auxetic shells and origami-inspired structures for deployable Martian habitats. The project was accepted for presentation at the 2026 International Astronautical Congress. During high school, I also took part in [CERN’s Beamline for Schools competition](https://drive.google.com/file/d/1NOw6sS-8PkIfGBpvqsPoiFilMOe7dD8g/view?usp=sharing) and the UniGeneva’s Open17 Water Challenge.
 
