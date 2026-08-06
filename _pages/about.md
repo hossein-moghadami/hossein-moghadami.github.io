@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: 59539728076685350391.jpg
+  image: aaaaa.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Mechanical and Aerospace Engineering (DIMEAS)</p>
