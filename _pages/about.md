@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: aaaaa.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Mechanical and Aerospace Engineering (DIMEAS)</p>
     <p>Polytechnic University of Turin, Italy</p>
